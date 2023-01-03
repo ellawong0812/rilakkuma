@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
     fontFamily: "Cochin"
   },
   titleText: {
-    fontSize: 50,
+    fontSize: 100,
     fontWeight: "bold",
     color:"lightgoldenrodyellow",
   },
