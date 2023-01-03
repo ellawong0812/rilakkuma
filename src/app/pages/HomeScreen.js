@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
   titleText: {
     fontSize: 100,
     fontWeight: "bold",
-    color:"lightgoldenrodyellow",
+    color:"red",
   },
   container: {
     flex: 1,
