@@ -17,6 +17,7 @@ function HomeScreen({ navigation }) {
 
 
           Rilakkuma:D
+          HIHI Im Victor
         </Text>  
         </TouchableHighlight>
 
