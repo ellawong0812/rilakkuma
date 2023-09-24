@@ -3,8 +3,18 @@ import { Button, View, Text, Image,StyleSheet,TouchableOpacity,Alert,ScrollView 
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { ImagesAssets } from '../../../assets/ImagesAssets';
+import { useState } from 'react';
+// import {useFonts} from 'expo-font';
 
 function WhiteBearDetailsScreen({ navigation }) {
+
+//   const [fontsLoaded]=useState({
+//     RubikBubbles:require('../../../assets/fonts/RubikBubbles-Regular.ttf'),
+// });
+
+// if (!fontsLoaded) return null;
+  
+
   return (
   
   

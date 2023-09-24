@@ -21,8 +21,8 @@ function BlackBearDetailsScreen({ navigation }) {
     
       <Text style={{fontSize:50,fontWeight:"bold"}}>Hello! I live happily ;0 </Text>
       <Image source={require("../../../assets/family.png")} style={{width:300,height:300}}/>
-      <View style={{flex:1,backgroundColor:"turquoise"}}>
-        <Text>Your rate on Rilakkuma: </Text>
+      <View style={{backgroundColor:"turquoise"}}>
+        <Text>Your rate on Rilakkuma:</Text>
       <Button title='-' onPress={decreaCount}/>
       <Text>{count}</Text>
       <Button title='+' onPress={increaCount}/>
