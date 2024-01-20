@@ -5,6 +5,7 @@ The Rilakkuma Mobile App is a React Native application designed for people to ex
 ## Demonstration Video
 https://github.com/ellawong0812/rilakkuma/assets/121847745/1e4c9fa0-3f9e-4c9d-aeac-8953fad7e3cb
 
+<img width="324" alt="Screenshot 2024-01-20 at 8 27 49 PM" src="https://github.com/ellawong0812/rilakkuma/assets/121847745/7965fe5d-1650-42fe-8f58-6db74da02101">
 
 
 ## Features
