@@ -2,6 +2,11 @@
 
 The Rilakkuma Mobile App is a React Native application designed for people to explore and learn more about my favorite characters. This mobile app offers various features, including comment sections, Q&A, and some descriptions about Rilakkuma.
 
+## Demonstration Video
+https://github.com/ellawong0812/rilakkuma/assets/121847745/1e4c9fa0-3f9e-4c9d-aeac-8953fad7e3cb
+
+
+
 ## Features
 Comment Section: Users can engage in discussions and share their thoughts about Rilakkuma with other users. They can post comments, reply to existing comments, and interact with the community.
 
